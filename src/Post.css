@@ -1,0 +1,45 @@
+
+.primary{
+    margin-top: 40px;
+    margin-right: 85%;
+    background-color: #b3120c;
+    padding: 5px 25px;
+    transition: 0.5s;
+    opacity:0.7;
+    border: 2px solid #9e0303;
+    border-radius: 15px 15px 15px 15px;
+    box-sizing: border-box;
+    box-shadow: 0 0 2px rgba(0,0,0, 1);
+    outline: none;
+    color: white;
+    margin-bottom: 20px;
+}
+.primary:hover{
+    opacity: 1;
+}
+#postlabel{
+    margin:10px 5px;
+    color:black;
+    font-weight: 500;
+}
+.textarea{
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    border-radius: 15px 15px 15px 15px;
+    outline: none;
+    border:1px solid slategray;
+}   
+.textarea:hover{
+    border:2px solid steelblue;
+
+}
+
+
+
+
+
